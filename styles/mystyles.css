@@ -1,0 +1,42 @@
+body {
+    margin: 8px;
+    background-color: white;
+}
+h1 {
+    color: black;
+    font-family: inherit;
+    font-style: italic;
+    font-size: 300%;
+    text-align: center
+}
+header {
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    height: 110px;
+    background-color: beige;
+    text-align: center;
+    padding: 20px;
+}
+copyright {
+    text-align: center;
+    color: firebrick;
+    font-size: 16px
+}
+footer {
+    color: black;
+    font-family:inherit;
+    font-size: 100%;
+        text-align: center;
+}
+.box1 {
+    border-width: 2px;
+    border-style:solid;
+    border-color:black;
+}
+span {
+    width: 200px;
+    margin-left: 150px;
+    padding: 10px;
+    font-size: 18px
+}
